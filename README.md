@@ -1,28 +1,28 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
-<!--                    🌌 AI NEURAL UNIVERSE                      -->
+<!--                 🧬 AI BIO-DIGITAL EVOLUTION                  -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,20:12002B,40:24005A,60:3B0875,80:6A0DAD,100:00D9FF&height=320&section=header&text=SHUBHAM%20KARDEL&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20AI%20ENGINEER%20%7C%20MACHINE%20LEARNING%20%7C%20INTELLIGENT%20SYSTEMS&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06140F,20:0B2A1F,40:14532D,60:16A34A,80:65A30D,100:FACC15&height=320&section=header&text=SHUBHAM%20KARDEL&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20AI%20ENGINEER%20%7C%20LEARNING%20%7C%20BUILDING%20%7C%20EVOLVING&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&width=1000&lines=%3E+WELCOME+TO+MY+AI+NEURAL+UNIVERSE...;%3E+INITIALIZING+DIGITAL+INTELLIGENCE+LAB...;%3E+AI+ENGINEERING+JOURNEY+IN+PROGRESS...;%3E+MACHINE+LEARNING+CORE+LOADING...;%3E+DEEP+LEARNING+MODULES+ACTIVATING...;%3E+GENERATIVE+AI+ENGINE+ONLINE...;%3E+BUILDING+THE+FUTURE+OF+INTELLIGENT+SYSTEMS...;%3E+FUTURE+AI+ENGINEER+IN+THE+MAKING..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2200&pause=700&color=7CFF6B&center=true&vCenter=true&width=1000&lines=%3E+BOOTING+BIO-DIGITAL+INTELLIGENCE+LAB...;%3E+NEURAL+PATTERNS+DETECTED...;%3E+MACHINE+LEARNING+CORE+EVOLVING...;%3E+DEEP+LEARNING+MODULE+GROWING...;%3E+GENERATIVE+INTELLIGENCE+EXPANDING...;%3E+AI+ENGINEERING+PATHWAY+ACTIVE...;%3E+FUTURE+AI+ENGINEER+UNDER+CONSTRUCTION...;%3E+EVOLUTION+NEVER+STOPS..." />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ASPIRING-AI%20ENGINEER-00E5FF?style=for-the-badge&labelColor=050014"/>
-<img src="https://img.shields.io/badge/MACHINE-LEARNING-8A2BE2?style=for-the-badge&labelColor=050014"/>
-<img src="https://img.shields.io/badge/DEEP-LEARNING-FF00E6?style=for-the-badge&labelColor=050014"/>
-<img src="https://img.shields.io/badge/GENERATIVE-AI-00FFB3?style=for-the-badge&labelColor=050014"/>
+<img src="https://img.shields.io/badge/🧬%20AI%20EVOLUTION-ACTIVE-7CFF6B?style=for-the-badge&labelColor=06140F"/>
+<img src="https://img.shields.io/badge/🧠%20INTELLIGENCE-GROWING-FACC15?style=for-the-badge&labelColor=06140F"/>
+<img src="https://img.shields.io/badge/⚙️%20ENGINEERING-IN%20PROGRESS-22C55E?style=for-the-badge&labelColor=06140F"/>
+<img src="https://img.shields.io/badge/🚀%20FUTURE-AI%20ENGINEER-F97316?style=for-the-badge&labelColor=06140F"/>
 
 <br><br>
 
 <a href="https://github.com/shubhamkardel-ai">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shubham-kardel-303356312/">
@@ -31,7 +31,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shubhamkardel-ai&label=NEURAL%20VISITS&color=00E5FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=shubhamkardel-ai&label=VISUAL%20OBSERVATIONS&color=7CFF6B&style=for-the-badge"/>
 
 </div>
 
@@ -39,201 +39,145 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=1000&lines=🌌+DIGITAL+INTELLIGENCE+LAB;🧠+AI+ENGINEERING+UNIVERSE;🔬+LEARNING+%7C+EXPERIMENTING+%7C+ENGINEERING;🚀+FROM+DATA+TO+INTELLIGENCE;✨+BUILDING+TOWARDS+THE+FUTURE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2600&pause=800&color=7CFF6B&center=true&vCenter=true&width=1000&lines=🧬+WELCOME+TO+THE+EVOLUTION+LAB;🧠+WHERE+CODE+MEETS+INTELLIGENCE;🔬+LEARN+%E2%86%92+EXPERIMENT+%E2%86%92+ENGINEER;🌱+GROWING+ONE+CONCEPT+AT+A+TIME;🚀+EVOLVING+TOWARDS+AI+ENGINEERING" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06140F,35:0B2A1F,70:14532D,100:65A30D&height=120&section=header&text=THE%20INTELLIGENCE%20EVOLUTION&fontSize=38&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 </div>
 
 ---
 
-# 🌌 THE AI NEURAL UNIVERSE
+# 🧬 THE EVOLUTION BEGINS
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=950&lines=EVERY+DATA+POINT+TELLS+A+STORY;EVERY+MODEL+LEARNS+FROM+DATA;EVERY+ALGORITHM+CREATES+INTELLIGENCE;EVERY+SYSTEM+BRINGS+AI+CLOSER+TO+THE+REAL+WORLD" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050014,50:3B0875,100:00D9FF&height=100&section=header&text=THE%20JOURNEY%20TOWARDS%20AI%20ENGINEERING&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2300&pause=600&color=FACC15&center=true&vCenter=true&width=950&lines=I+AM+NOT+JUST+LEARNING+AI;I+AM+LEARNING+HOW+TO+ENGINEER+INTELLIGENCE;EVERY+CONCEPT+IS+A+NEW+NEURAL+CONNECTION;EVERY+EXPERIMENT+IS+A+STEP+FORWARD;EVERY+FAILURE+IS+DATA+FOR+THE+NEXT+ITERATION" />
 
 </div>
 
 <br>
 
-I am **Shubham Kardel**, an aspiring **Artificial Intelligence & Machine Learning Engineer** passionate about understanding how intelligent systems learn, reason, perceive, and solve real-world problems.
+I am **Shubham Kardel**, an aspiring **Artificial Intelligence & Machine Learning Engineer** focused on developing the knowledge and engineering skills required to build intelligent systems.
 
 🎓 **MCA — Artificial Intelligence & Data Science**
 
-My long-term goal is to become a **strong, production-oriented AI Engineer** capable of transforming ideas and data into reliable intelligent systems.
+My goal is simple:
 
-I am continuously exploring the intersection of:
+> **To become a production-ready AI Engineer who can transform data, algorithms, and intelligent models into real-world systems.**
 
-`Artificial Intelligence` • `Machine Learning` • `Deep Learning`
+My journey combines:
 
-`Generative AI` • `Computer Vision` • `Natural Language Processing`
+`Artificial Intelligence`
 
-`AI Agents` • `LLMs` • `RAG` • `MLOps` • `AI System Architecture`
+`Machine Learning`
 
-My journey is not just about training models.
+`Deep Learning`
 
-It is about learning how to **design, engineer, deploy, optimize, and continuously improve intelligent systems**.
+`Generative AI`
+
+`Computer Vision`
+
+`Natural Language Processing`
+
+`AI Agents`
+
+`MLOps`
+
+`AI System Engineering`
+
+I believe becoming an AI Engineer is not a single destination.
+
+It is a continuous process of **learning, experimenting, building, breaking, improving, and evolving**.
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2300&pause=700&color=00FFB3&center=true&vCenter=true&width=900&lines=🧠+LEARN+THE+FUNDAMENTALS;🔬+EXPERIMENT+WITH+MODELS;⚙️+ENGINEER+INTELLIGENT+SYSTEMS;🚀+DEPLOY+REAL-WORLD+SOLUTIONS;🌌+KEEP+EVOLVING" />
-
-</div>
-
----
-
-# 🧠 AI ENGINEERING CONSTELLATION
+# 🌱 THE AI EVOLUTION CYCLE
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050014,25:12002B,50:3B0875,75:6A0DAD,100:00D9FF&height=120&section=header&text=INTELLIGENCE%20CONSTELLATION&fontSize=38&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06140F,25:0B2A1F,50:14532D,75:16A34A,100:FACC15&height=110&section=header&text=LEARN%20%E2%86%92%20EXPERIMENT%20%E2%86%92%20BUILD%20%E2%86%92%20EVOLVE&fontSize=31&fontColor=FFFFFF&animation=fadeIn" width="95%"/>
 
 <br><br>
 
-<table width="100%" cellspacing="0" cellpadding="25">
+<table width="95%" cellspacing="0" cellpadding="25">
 
 <tr>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/🧠-ARTIFICIAL%20INTELLIGENCE-00E5FF?style=for-the-badge&labelColor=050014"/>
+🌱
 
-<br><br>
+<br>
 
-Understanding intelligent behavior
+### LEARN
 
-Decision-making systems
+<br>
 
-AI problem solving
+Understand fundamentals
 
-</td>
+Study algorithms
 
-<td align="center">
-
-<img src="https://img.shields.io/badge/📊-MACHINE%20LEARNING-8A2BE2?style=for-the-badge&labelColor=050014"/>
-
-<br><br>
-
-Supervised Learning
-
-Unsupervised Learning
-
-Model Evaluation
+Build mathematical intuition
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/🔥-DEEP%20LEARNING-FF00E6?style=for-the-badge&labelColor=050014"/>
+🧪
 
-<br><br>
+<br>
 
-Neural Networks
+### EXPERIMENT
 
-Representation Learning
+<br>
 
-PyTorch
+Test ideas
 
-</td>
+Explore models
 
-</tr>
+Analyze outcomes
 
-<tr>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/✨-GENERATIVE%20AI-00FFB3?style=for-the-badge&labelColor=050014"/>
-
-<br><br>
-
-LLMs
-
-RAG
-
-AI Applications
+Learn from failure
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/👁️-COMPUTER%20VISION-00D9FF?style=for-the-badge&labelColor=050014"/>
+⚙️
 
-<br><br>
+<br>
 
-Image Understanding
+### BUILD
 
-Object Detection
+<br>
 
-Tracking
+Write code
 
-</td>
+Engineer systems
 
-<td align="center">
-
-<img src="https://img.shields.io/badge/🗣️-NLP-8A2BE2?style=for-the-badge&labelColor=050014"/>
-
-<br><br>
-
-Text Processing
-
-Information Extraction
-
-Language Intelligence
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/🤖-AI%20AGENTS-FF00E6?style=for-the-badge&labelColor=050014"/>
-
-<br><br>
-
-Tool Use
-
-Reasoning
-
-Autonomous Workflows
+Create intelligent applications
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/⚙️-MLOPS-00FFB3?style=for-the-badge&labelColor=050014"/>
+🧬
 
-<br><br>
+<br>
 
-Model Deployment
+### EVOLVE
 
-Monitoring
+<br>
 
-Production AI
+Optimize
 
-</td>
+Deploy
 
-<td align="center">
+Improve
 
-<img src="https://img.shields.io/badge/🏗️-AI%20SYSTEMS-00E5FF?style=for-the-badge&labelColor=050014"/>
-
-<br><br>
-
-Architecture
-
-APIs
-
-Scalable Intelligence
+Repeat
 
 </td>
 
@@ -245,15 +189,205 @@ Scalable Intelligence
 
 ---
 
-# 🌐 THE INTELLIGENCE FLOW
+# 🧠 THE INTELLIGENCE DNA
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=950&lines=DATA+IS+THE+FUEL;MODELS+ARE+THE+MIND;ALGORITHMS+ARE+THE+LOGIC;ENGINEERING+IS+THE+BRIDGE;INTELLIGENCE+IS+THE+OUTCOME" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2300&pause=700&color=FACC15&center=true&vCenter=true&width=950&lines=THE+DNA+OF+AN+AI+ENGINEER;INTELLIGENCE+IS+BUILT+LAYER+BY+LAYER;EVERY+SKILL+BECOMES+A+NEW+CONNECTION;EVERY+CONNECTION+CREATES+A+STRONGER+SYSTEM" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050014,50:3B0875,100:00D9FF&height=150&section=header&text=DATA%20%E2%86%92%20LEARNING%20%E2%86%92%20INTELLIGENCE%20%E2%86%92%20IMPACT&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="95%"/>
+<table width="100%" cellspacing="0" cellpadding="24">
+
+<tr>
+
+<td align="center">
+
+🧠
+
+<br>
+
+<b>ARTIFICIAL INTELLIGENCE</b>
+
+<br><br>
+
+Intelligent decision systems
+
+Problem solving
+
+Reasoning
+
+</td>
+
+<td align="center">
+
+📊
+
+<br>
+
+<b>MACHINE LEARNING</b>
+
+<br><br>
+
+Learning from data
+
+Prediction
+
+Pattern recognition
+
+</td>
+
+<td align="center">
+
+🔥
+
+<br>
+
+<b>DEEP LEARNING</b>
+
+<br><br>
+
+Neural networks
+
+Representation learning
+
+PyTorch
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+✨
+
+<br>
+
+<b>GENERATIVE AI</b>
+
+<br><br>
+
+LLMs
+
+RAG
+
+AI applications
+
+</td>
+
+<td align="center">
+
+👁️
+
+<br>
+
+<b>COMPUTER VISION</b>
+
+<br><br>
+
+Visual intelligence
+
+Detection
+
+Recognition
+
+</td>
+
+<td align="center">
+
+🗣️
+
+<br>
+
+<b>NLP</b>
+
+<br><br>
+
+Language understanding
+
+Text intelligence
+
+Information extraction
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+🤖
+
+<br>
+
+<b>AI AGENTS</b>
+
+<br><br>
+
+Reasoning
+
+Tool usage
+
+Autonomous workflows
+
+</td>
+
+<td align="center">
+
+⚙️
+
+<br>
+
+<b>MLOPS</b>
+
+<br><br>
+
+Deployment
+
+Monitoring
+
+Production systems
+
+</td>
+
+<td align="center">
+
+🏗️
+
+<br>
+
+<b>AI ENGINEERING</b>
+
+<br><br>
+
+Architecture
+
+APIs
+
+Scalable systems
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🔬 THE DIGITAL ORGANISM
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2100&pause=500&color=7CFF6B&center=true&vCenter=true&width=950&lines=DATA+ENTERS+THE+SYSTEM...;FEATURES+EMERGE...;MODELS+LEARN...;INTELLIGENCE+GROWS...;SYSTEMS+ADAPT...;KNOWLEDGE+EVOLVES..." />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06140F,50:14532D,100:16A34A&height=130&section=header&text=DATA%20%7C%20LEARNING%20%7C%20INTELLIGENCE%20%7C%20ENGINEERING&fontSize=29&fontColor=FFFFFF&animation=fadeIn" width="95%"/>
 
 </div>
 
@@ -275,13 +409,25 @@ Scalable Intelligence
 
 <br><br>
 
-Collect
+The raw information
 
-Clean
+that fuels intelligence.
 
-Transform
+</td>
 
-Understand
+<td align="center">
+
+🧬
+
+<br>
+
+<b>FEATURES</b>
+
+<br><br>
+
+The patterns extracted
+
+from the information.
 
 </td>
 
@@ -291,37 +437,13 @@ Understand
 
 <br>
 
-<b>LEARNING</b>
+<b>MODEL</b>
 
 <br><br>
 
-Train
+The system that learns
 
-Evaluate
-
-Optimize
-
-Generalize
-
-</td>
-
-<td align="center">
-
-✨
-
-<br>
-
-<b>INTELLIGENCE</b>
-
-<br><br>
-
-Predict
-
-Reason
-
-Generate
-
-Understand
+from those patterns.
 
 </td>
 
@@ -331,17 +453,13 @@ Understand
 
 <br>
 
-<b>IMPACT</b>
+<b>INTELLIGENCE</b>
 
 <br><br>
 
-Deploy
+The ability to predict,
 
-Scale
-
-Monitor
-
-Improve
+understand, and act.
 
 </td>
 
@@ -353,11 +471,11 @@ Improve
 
 ---
 
-# 🔬 DIGITAL INTELLIGENCE LAB
+# 🧪 THE AI RESEARCH LAB
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2400&pause=700&color=FF00E6&center=true&vCenter=true&width=900&lines=EXPERIMENTATION+MODE+ACTIVE;RESEARCH+MINDSET+ONLINE;MODELS+UNDER+EXPLORATION;NEW+IDEAS+ENTERING+THE+LAB;KNOWLEDGE+BASE+EXPANDING" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2400&pause=700&color=F97316&center=true&vCenter=true&width=950&lines=LABORATORY+STATUS%3A+ACTIVE;EXPERIMENTS%3A+ONGOING;KNOWLEDGE%3A+EXPANDING;MODELS%3A+EVOLVING;ENGINEERING+SKILLS%3A+STRENGTHENING;MISSION%3A+BECOME+AN+AI+ENGINEER" />
 
 <br><br>
 
@@ -375,11 +493,11 @@ Improve
 
 <br><br>
 
-Discover new AI concepts
+New algorithms
 
-Study emerging technologies
+New architectures
 
-Understand the fundamentals
+New ideas
 
 </td>
 
@@ -393,13 +511,11 @@ Understand the fundamentals
 
 <br><br>
 
-Test ideas
+Test hypotheses
 
 Train models
 
-Analyze results
-
-Learn from failures
+Measure performance
 
 </td>
 
@@ -413,29 +529,11 @@ Learn from failures
 
 <br><br>
 
-Build systems
+Build reliable systems
 
-Design architectures
+Design APIs
 
-Create reliable applications
-
-</td>
-
-<td align="center">
-
-🚀
-
-<br>
-
-<b>EVOLVE</b>
-
-<br><br>
-
-Improve continuously
-
-Optimize solutions
-
-Move towards production
+Solve real problems
 
 </td>
 
@@ -447,7 +545,7 @@ Move towards production
 
 ---
 
-# 🧰 TECHNOLOGY UNIVERSE
+# 🛠️ THE ENGINEERING DNA
 
 <div align="center">
 
@@ -455,82 +553,124 @@ Move towards production
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=950&lines=PYTHON+%7C+THE+CORE+OF+MY+AI+JOURNEY;PYTORCH+%7C+DEEP+LEARNING+EXPLORATION;OPENCV+%7C+COMPUTER+VISION;SCIKIT-LEARN+%7C+MACHINE+LEARNING;FASTAPI+%7C+AI+BACKEND+ENGINEERING;DOCKER+%7C+DEPLOYMENT+FOUNDATIONS;GIT+%7C+VERSION+CONTROL+%7C+ENGINEERING+DISCIPLINE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2200&pause=600&color=7CFF6B&center=true&vCenter=true&width=950&lines=PYTHON+%7C+AI+ENGINEERING+FOUNDATION;PYTORCH+%7C+NEURAL+NETWORKS;SCIKIT-LEARN+%7C+MACHINE+LEARNING;OPENCV+%7C+VISUAL+INTELLIGENCE;NUMPY+%7C+PANDAS+%7C+DATA+PROCESSING;FASTAPI+%7C+AI+BACKEND+ENGINEERING;DOCKER+%7C+DEPLOYMENT;GIT+%7C+ENGINEERING+DISCIPLINE" />
 
 </div>
 
 ---
 
-# 🧬 AI ENGINEERING SKILL MATRIX
+# 📊 AI ENGINEERING GROWTH MATRIX
 
 <div align="center">
 
 <table width="95%" cellspacing="0" cellpadding="16">
 
 <tr>
-<th>🧠 DOMAIN</th>
-<th>🔬 FOCUS</th>
-<th>📡 JOURNEY</th>
+
+<th>DOMAIN</th>
+<th>FOCUS</th>
+<th>EVOLUTION</th>
+
 </tr>
 
 <tr>
+
 <td>🐍 Python</td>
-<td>AI Development & Software Engineering</td>
-<td>🟢 Continuous Growth</td>
+
+<td>AI Development & Engineering</td>
+
+<td>🟢 GROWING</td>
+
 </tr>
 
 <tr>
+
 <td>📊 Machine Learning</td>
-<td>Algorithms, Training & Evaluation</td>
-<td>🟢 Active Learning</td>
+
+<td>Algorithms & Model Evaluation</td>
+
+<td>🟢 ACTIVE</td>
+
 </tr>
 
 <tr>
+
 <td>🔥 Deep Learning</td>
+
 <td>Neural Networks & PyTorch</td>
-<td>🟡 Advancing</td>
+
+<td>🟡 EVOLVING</td>
+
 </tr>
 
 <tr>
+
 <td>✨ Generative AI</td>
+
 <td>LLMs & Intelligent Applications</td>
-<td>🟡 Expanding</td>
+
+<td>🟡 EXPLORING</td>
+
 </tr>
 
 <tr>
+
 <td>👁️ Computer Vision</td>
-<td>Detection, Recognition & Tracking</td>
-<td>🟢 Active Learning</td>
+
+<td>Detection & Visual Intelligence</td>
+
+<td>🟢 ACTIVE</td>
+
 </tr>
 
 <tr>
+
 <td>🗣️ NLP</td>
-<td>Language Understanding & Processing</td>
-<td>🟢 Active Learning</td>
+
+<td>Language & Text Intelligence</td>
+
+<td>🟢 GROWING</td>
+
 </tr>
 
 <tr>
+
 <td>🤖 AI Agents</td>
+
 <td>Reasoning & Autonomous Workflows</td>
-<td>🟡 Exploring</td>
+
+<td>🟡 EXPLORING</td>
+
 </tr>
 
 <tr>
+
 <td>🌐 FastAPI</td>
-<td>AI APIs & Backend Systems</td>
-<td>🟡 Advancing</td>
+
+<td>AI APIs & Backend Engineering</td>
+
+<td>🟡 ADVANCING</td>
+
 </tr>
 
 <tr>
+
 <td>🐳 Docker</td>
-<td>AI Deployment Foundations</td>
-<td>🟡 Learning</td>
+
+<td>AI Deployment</td>
+
+<td>🟡 LEARNING</td>
+
 </tr>
 
 <tr>
+
 <td>☁️ MLOps</td>
+
 <td>Production AI Lifecycle</td>
-<td>🟡 Learning</td>
+
+<td>🟡 LEARNING</td>
+
 </tr>
 
 </table>
@@ -539,29 +679,35 @@ Move towards production
 
 ---
 
-# 🚀 THE ROAD TO AI ENGINEER
+# 🚀 EVOLUTION TOWARDS AI ENGINEER
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050014,20:12002B,40:3B0875,60:6A0DAD,80:8A2BE2,100:00E5FF&height=120&section=header&text=FUTURE%20AI%20ENGINEER&fontSize=42&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06140F,25:0B2A1F,50:14532D,75:16A34A,100:FACC15&height=130&section=header&text=THE%20PATH%20OF%20EVOLUTION&fontSize=42&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=700&color=00FFB3&center=true&vCenter=true&width=900&lines=MASTER+THE+FUNDAMENTALS;BUILD+STRONG+ENGINEERING+SKILLS;UNDERSTAND+AI+FROM+FIRST+PRINCIPLES;CREATE+RELIABLE+INTELLIGENT+SYSTEMS;LEARN+TO+DEPLOY+AI+INTO+THE+REAL+WORLD;BECOME+A+PRODUCTION-READY+AI+ENGINEER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=21&duration=2500&pause=700&color=FACC15&center=true&vCenter=true&width=950&lines=BUILD+STRONG+FOUNDATIONS;MASTER+THE+FUNDAMENTALS;UNDERSTAND+THE+MODELS;ENGINEER+THE+SYSTEMS;LEARN+DEPLOYMENT;BUILD+FOR+THE+REAL+WORLD;BECOME+A+PRODUCTION-READY+AI+ENGINEER" />
 
 <br><br>
 
-<table width="95%" cellspacing="0" cellpadding="20">
+<table width="95%" cellspacing="0" cellpadding="22">
 
 <tr>
 
 <td align="center">
 
-### 01
+01
 
-🧠
+<br><br>
 
-<b>FOUNDATIONS</b>
+🌱
+
+<br>
+
+<b>FOUNDATION</b>
+
+<br><br>
 
 Python
 
@@ -569,59 +715,73 @@ Mathematics
 
 Statistics
 
-Data Structures
-
-Algorithms
+DSA
 
 </td>
 
 <td align="center">
 
-### 02
+02
 
-🤖
+<br><br>
+
+🧠
+
+<br>
 
 <b>INTELLIGENCE</b>
 
-Machine Learning
+<br><br>
 
-Deep Learning
+ML
 
-Computer Vision
+DL
+
+CV
 
 NLP
 
-Generative AI
+GenAI
 
 </td>
 
 <td align="center">
 
-### 03
+03
+
+<br><br>
 
 ⚙️
 
+<br>
+
 <b>ENGINEERING</b>
+
+<br><br>
 
 APIs
 
-System Design
-
 Databases
 
-Testing
+Architecture
 
-Software Architecture
+Testing
 
 </td>
 
 <td align="center">
 
-### 04
+04
+
+<br><br>
 
 🚀
 
+<br>
+
 <b>PRODUCTION</b>
+
+<br><br>
 
 MLOps
 
@@ -631,8 +791,6 @@ Deployment
 
 Monitoring
 
-Scalable AI
-
 </td>
 
 </tr>
@@ -643,15 +801,15 @@ Scalable AI
 
 ---
 
-# 📚 CURRENT LEARNING UNIVERSE
+# 📚 CURRENTLY EVOLVING
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&width=950&lines=LEARNING+NEVER+STOPS;THE+AI+FIELD+IS+ALWAYS+EVOLVING;EVERY+NEW+CONCEPT+EXPANDS+THE+NEURAL+UNIVERSE;EVERY+EXPERIMENT+BUILDS+ENGINEERING+EXPERIENCE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=FACC15&center=true&vCenter=true&width=950&lines=NEW+KNOWLEDGE+ENTERING+THE+SYSTEM...;NEURAL+CONNECTIONS+FORMING...;UNDERSTANDING+DEEPER+CONCEPTS...;ENGINEERING+SKILLS+EXPANDING...;AI+CAPABILITIES+EVOLVING..." />
 
 <br><br>
 
-<table width="95%" cellspacing="0" cellpadding="18">
+<table width="95%" cellspacing="0" cellpadding="20">
 
 <tr>
 
@@ -665,7 +823,7 @@ Scalable AI
 
 <br>
 
-Understanding modern language models
+Modern language intelligence
 
 </td>
 
@@ -679,7 +837,7 @@ Understanding modern language models
 
 <br>
 
-Knowledge retrieval systems
+Retrieval-based intelligence
 
 </td>
 
@@ -693,7 +851,7 @@ Knowledge retrieval systems
 
 <br>
 
-Intelligent workflows
+Autonomous AI workflows
 
 </td>
 
@@ -711,21 +869,7 @@ Intelligent workflows
 
 <br>
 
-Advanced neural architectures
-
-</td>
-
-<td align="center">
-
-👁️
-
-<br>
-
-<b>COMPUTER VISION</b>
-
-<br>
-
-Visual intelligence
+Advanced neural systems
 
 </td>
 
@@ -739,7 +883,21 @@ Visual intelligence
 
 <br>
 
-Production AI engineering
+Production AI systems
+
+</td>
+
+<td align="center">
+
+☁️
+
+<br>
+
+<b>CLOUD AI</b>
+
+<br>
+
+Scalable deployment
 
 </td>
 
@@ -751,11 +909,11 @@ Production AI engineering
 
 ---
 
-# 🌠 MY AI ENGINEERING VISION
+# 🎯 THE LONG-TERM VISION
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2700&pause=800&color=8A2BE2&center=true&vCenter=true&width=1000&lines=I+WANT+TO+BUILD+INTELLIGENT+SYSTEMS;I+WANT+TO+SOLVE+REAL+PROBLEMS+WITH+AI;I+WANT+TO+UNDERSTAND+HOW+MACHINES+LEARN;I+WANT+TO+ENGINEER+AI+FOR+THE+REAL+WORLD;I+WANT+TO+BECOME+A+PRODUCTION-READY+AI+ENGINEER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2600&pause=700&color=7CFF6B&center=true&vCenter=true&width=1000&lines=I+WANT+TO+UNDERSTAND+INTELLIGENCE;I+WANT+TO+ENGINEER+INTELLIGENT+SYSTEMS;I+WANT+TO+SOLVE+REAL-WORLD+PROBLEMS;I+WANT+TO+BUILD+RELIABLE+AI;I+WANT+TO+BECOME+A+STRONG+AI+ENGINEER" />
 
 <br><br>
 
@@ -765,15 +923,39 @@ Production AI engineering
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/VISION-BUILD%20INTELLIGENCE-00E5FF?style=for-the-badge&labelColor=050014"/>
+<img src="https://img.shields.io/badge/ULTIMATE%20GOAL-BECOME%20AN%20AI%20ENGINEER-7CFF6B?style=for-the-badge&labelColor=06140F"/>
+
+<br><br><br>
+
+My long-term vision is to become an engineer who can work across the complete AI lifecycle.
 
 <br><br>
 
-**My vision is to grow from an AI learner into an AI Engineer who can take an intelligent idea from concept to production.**
+From understanding data...
+
+<br>
+
+To training models...
+
+<br>
+
+To building intelligent applications...
+
+<br>
+
+To deploying reliable AI systems...
+
+<br>
+
+To continuously improving them...
 
 <br><br>
 
-I want to understand not only **how AI models work**, but also how to transform them into **reliable, scalable, useful, and impactful systems**.
+**The goal is not simply to use AI.**
+
+<br><br>
+
+**The goal is to understand it, engineer it, and build with it.**
 
 </td>
 
@@ -785,11 +967,11 @@ I want to understand not only **how AI models work**, but also how to transform 
 
 ---
 
-# ⚡ ENGINEERING MINDSET
+# 🧬 ENGINEERING PHILOSOPHY
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2300&pause=700&color=00FFB3&center=true&vCenter=true&width=950&lines=CODE+WITH+PURPOSE;LEARN+WITH+CURIOSITY;BUILD+WITH+DISCIPLINE;FAIL+WITH+RESILIENCE;IMPROVE+WITH+EVERY+ITERATION;NEVER+STOP+EXPLORING" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2300&pause=700&color=F97316&center=true&vCenter=true&width=950&lines=LEARN+DEEP;BUILD+SMART;FAIL+FAST;IMPROVE+ALWAYS;EVOLVE+CONTINUOUSLY" />
 
 <br><br>
 
@@ -799,29 +981,29 @@ I want to understand not only **how AI models work**, but also how to transform 
 
 <td align="center">
 
-🧠
-
-<br>
-
-<b>THINK</b>
-
-<br>
-
-Understand the problem before building the solution.
-
-</td>
-
-<td align="center">
-
-🔬
+🌱
 
 <br>
 
 <b>LEARN</b>
 
+<br><br>
+
+Build strong fundamentals.
+
+</td>
+
+<td align="center">
+
+🧪
+
 <br>
 
-Study the fundamentals and stay curious.
+<b>EXPERIMENT</b>
+
+<br><br>
+
+Turn knowledge into experience.
 
 </td>
 
@@ -831,25 +1013,25 @@ Study the fundamentals and stay curious.
 
 <br>
 
-<b>BUILD</b>
+<b>ENGINEER</b>
 
-<br>
+<br><br>
 
-Turn knowledge into working systems.
+Build reliable solutions.
 
 </td>
 
 <td align="center">
 
-🚀
+🧬
 
 <br>
 
-<b>IMPROVE</b>
+<b>EVOLVE</b>
 
-<br>
+<br><br>
 
-Iterate, optimize, and grow continuously.
+Become better with every iteration.
 
 </td>
 
@@ -861,35 +1043,35 @@ Iterate, optimize, and grow continuously.
 
 ---
 
-# 📈 GITHUB NEURAL ACTIVITY
+# 📈 GITHUB EVOLUTION
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamkardel-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamkardel-ai&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkardel-ai&theme=tokyonight&hide_border=true" width="49%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkardel-ai&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkardel-ai&theme=chartreuse-dark&hide_border=true" width="49%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkardel-ai&theme=tokyo-night&hide_border=true&area=true&custom_title=MY%20AI%20ENGINEERING%20NEURAL%20ACTIVITY" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkardel-ai&layout=compact&theme=chartreuse-dark&hide_border=true" width="45%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkardel-ai&theme=github-compact&hide_border=true&area=true&custom_title=AI%20ENGINEERING%20EVOLUTION%20GRAPH" width="100%"/>
 
 </div>
 
 ---
 
-# 🌌 THE FUTURE IS UNDER CONSTRUCTION
+# 🌱 STILL EVOLVING
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050014,20:12002B,40:3B0875,60:6A0DAD,80:8A2BE2,100:00D9FF&height=130&section=header&text=THE%20NEURAL%20JOURNEY%20CONTINUES&fontSize=36&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2700&pause=800&color=7CFF6B&center=true&vCenter=true&width=1000&lines=THE+SYSTEM+IS+NOT+FINISHED;THE+MODEL+IS+STILL+TRAINING;THE+KNOWLEDGE+IS+STILL+GROWING;THE+ENGINEER+IS+STILL+EVOLVING;THE+JOURNEY+CONTINUES..." />
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2300&pause=700&color=00E5FF&center=true&vCenter=true&width=950&lines=TODAY%3A+LEARNING;TOMORROW%3A+ENGINEERING;THE+FUTURE%3A+INTELLIGENCE;THE+MISSION%3A+BECOME+AN+AI+ENGINEER;THE+JOURNEY%3A+JUST+BEGINNING..." />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06140F,30:0B2A1F,60:14532D,100:16A34A&height=140&section=header&text=EVOLUTION%20IN%20PROGRESS&fontSize=42&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <br><br>
 
@@ -899,35 +1081,35 @@ Iterate, optimize, and grow continuously.
 
 <td align="center">
 
-### 🌠 FROM LEARNING TO ENGINEERING
+🧬 **LEARN**
 
-<br>
+  →  
 
-I am building my knowledge one concept at a time.
+🧪 **EXPERIMENT**
 
-<br><br>
+  →  
 
-I am strengthening my engineering skills one challenge at a time.
+⚙️ **ENGINEER**
 
-<br><br>
+  →  
 
-I am exploring AI one experiment at a time.
+🚀 **EVOLVE**
 
-<br><br>
+<br><br><br>
 
-And I am moving closer to my goal —
-
-<br><br>
-
-<img src="https://img.shields.io/badge/BECOMING-AI%20ENGINEER-00E5FF?style=for-the-badge&labelColor=050014"/>
+<img src="https://img.shields.io/badge/FUTURE-AI%20ENGINEER-7CFF6B?style=for-the-badge&labelColor=06140F"/>
 
 <br><br>
 
-**The neural universe is infinite.**
+**The journey is still evolving.**
 
-**There is always something new to learn.**
+<br><br>
 
-**There is always something new to build.**
+**The intelligence is still growing.**
+
+<br><br>
+
+**The future is still being engineered.**
 
 </td>
 
@@ -939,11 +1121,11 @@ And I am moving closer to my goal —
 
 ---
 
-# 🌐 CONNECT TO THE NEURAL NETWORK
+# 🌐 CONNECT WITH THE ENGINEER
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2400&pause=700&color=FF00E6&center=true&vCenter=true&width=900&lines=CONNECTING+TO+THE+AI+NETWORK...;ESTABLISHING+DIGITAL+LINK...;CONNECTION+READY;LET'S+LEARN+%7C+BUILD+%7C+INNOVATE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2300&pause=700&color=FACC15&center=true&vCenter=true&width=900&lines=CONNECTING+TO+THE+ENGINEERING+NETWORK...;KNOWLEDGE+SHARED+IS+KNOWLEDGE+MULTIPLIED;LET'S+LEARN+TOGETHER;LET'S+BUILD+TOGETHER;LET'S+EVOLVE+TOGETHER" />
 
 <br><br>
 
@@ -957,7 +1139,7 @@ And I am moving closer to my goal —
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=00FFB3&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+DEEP+LEARNING;GENERATIVE+AI+%7C+COMPUTER+VISION;NLP+%7C+AI+AGENTS+%7C+MLOPS;LEARNING+TODAY+%7C+ENGINEERING+TOMORROW" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=7CFF6B&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+DEEP+LEARNING;GENERATIVE+AI+%7C+COMPUTER+VISION;NLP+%7C+AI+AGENTS+%7C+MLOPS;LEARNING+TODAY+%7C+ENGINEERING+TOMORROW" />
 
 </div>
 
@@ -965,15 +1147,16 @@ And I am moving closer to my goal —
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=1000&lines=THANK+YOU+FOR+ENTERING+MY+NEURAL+UNIVERSE;THE+JOURNEY+TOWARDS+AI+ENGINEERING+CONTINUES;KEEP+LEARNING;KEEP+BUILDING;KEEP+EXPLORING;KEEP+EVOLVING" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=29&duration=2800&pause=800&color=FACC15&center=true&vCenter=true&width=1000&lines=THANK+YOU+FOR+VISITING+MY+EVOLUTION+LAB;THE+SYSTEM+IS+GROWING;THE+JOURNEY+IS+CONTINUING;THE+FUTURE+IS+BEING+ENGINEERED" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-NEURAL%20SYSTEM%20ONLINE-00FFB3?style=for-the-badge&labelColor=050014"/>
-<img src="https://img.shields.io/badge/MISSION-BECOME%20AN%20AI%20ENGINEER-00E5FF?style=for-the-badge&labelColor=050014"/>
+<img src="https://img.shields.io/badge/🧬%20EVOLUTION-IN%20PROGRESS-7CFF6B?style=for-the-badge&labelColor=06140F"/>
+<img src="https://img.shields.io/badge/🧠%20INTELLIGENCE-EXPANDING-FACC15?style=for-the-badge&labelColor=06140F"/>
+<img src="https://img.shields.io/badge/🚀%20DESTINATION-AI%20ENGINEER-F97316?style=for-the-badge&labelColor=06140F"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,20:8A2BE2,40:6A0DAD,60:3B0875,80:12002B,100:050014&height=240&section=footer&text=THE%20FUTURE%20IS%20INTELLIGENT&fontSize=38&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06140F,20:0B2A1F,40:14532D,60:16A34A,80:65A30D,100:FACC15&height=250&section=footer&text=KEEP%20LEARNING.%20KEEP%20BUILDING.%20KEEP%20EVOLVING.&fontSize=31&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 </div>
