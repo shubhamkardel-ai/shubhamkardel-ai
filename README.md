@@ -1,15 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:061A3A,40:0B3B60,60:007C91,80:00B8D4,100:00F7FF&height=300&section=header&text=SHUBHAM%20KARDEL&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20PYTHON%20DEVELOPER%20%7C%20INTELLIGENT%20SYSTEMS%20BUILDER&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=%3E+INITIALIZING+AI+ENGINEERING+CORE...;%3E+SYSTEM+STATUS%3A+ONLINE;%3E+LOADING+MACHINE+LEARNING+MODULES...;%3E+COMPUTER+VISION+SYSTEMS+READY;%3E+GENERATIVE+AI+ENGINE+READY;%3E+CURRENT+MISSION%3A+AEGISAI;%3E+BUILDING+INTELLIGENT+SYSTEMS;%3E+ALWAYS+BUILDING+%7C+ALWAYS+LEARNING" />
+<!--                     HERO / IDENTITY                           -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:061A3A,50:0B3B60,75:007C91,100:00F7FF&height=300&section=header&text=SHUBHAM%20KARDEL&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20AI%20ENGINEER%20%7C%20PYTHON%20DEVELOPER%20%7C%20INTELLIGENT%20SYSTEMS%20BUILDER&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/AI%20ENGINEERING-ONLINE-00F7FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-ACTIVE-00F7FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-ACTIVE-00F7FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-LEARNING-00F7FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=%3E+INITIALIZING+AI+ENGINEERING+JOURNEY...;%3E+SYSTEM+STATUS%3A+LEARNING+%7C+BUILDING+%7C+EVOLVING;%3E+MACHINE+LEARNING+MODULES+LOADING...;%3E+DEEP+LEARNING+CORE+ACTIVATING...;%3E+GENERATIVE+AI+ENGINE+INITIALIZING...;%3E+COMPUTER+VISION+SYSTEMS+ONLINE...;%3E+INTELLIGENT+SYSTEMS+UNDER+CONSTRUCTION...;%3E+MISSION%3A+BECOME+AN+AI+ENGINEER;%3E+THE+JOURNEY+HAS+JUST+BEGUN..." />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ASPIRING-AI%20ENGINEER-00F7FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/MACHINE-LEARNING-00F7FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/DEEP-LEARNING-00F7FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/GENERATIVE-AI-00F7FF?style=for-the-badge&labelColor=020617"/>
 
 <br><br>
 
@@ -23,220 +31,65 @@
 
 <img src="https://komarev.com/ghpvc/?username=shubhamkardel-ai&label=PROFILE%20VISITS&color=00F7FF&style=for-the-badge"/>
 
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=17&duration=1800&pause=500&color=00FF9C&center=true&vCenter=true&width=900&lines=%5BOK%5D+PYTHON+CORE+READY;%5BOK%5D+AI+FOUNDATIONS+ACTIVE;%5BOK%5D+MACHINE+LEARNING+ACTIVE;%5BOK%5D+COMPUTER+VISION+ACTIVE;%5BOK%5D+GENERATIVE+AI+LEARNING;%5BOK%5D+INTELLIGENT+SYSTEMS+IN+PROGRESS" />
+
 </div>
 
 ---
 
+# 🧠 THE NEURAL FRONTIER
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+ENGINEERING+COMMAND+CENTER;INTELLIGENT+SYSTEMS+DIVISION;MACHINE+LEARNING+OPERATIONS;COMPUTER+VISION+RESEARCH;GENERATIVE+AI+LABORATORY;MISSION+CONTROL+ONLINE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=ENTERING+THE+NEURAL+FRONTIER;LEARNING+HOW+INTELLIGENCE+IS+ENGINEERED;BUILDING+THE+FOUNDATION+OF+AI+ENGINEERING;FROM+CODE+%E2%86%92+DATA+%E2%86%92+MODELS+%E2%86%92+INTELLIGENT+SYSTEMS;THE+FUTURE+IS+BEING+ENGINEERED" />
 
 <br><br>
 
-<table width="92%" cellspacing="0" cellpadding="18">
-<tr>
-<td align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:061A3A,65:007C91,100:00F7FF&height=100&section=header&text=AI%20ENGINEERING%20JOURNEY&fontSize=34&fontColor=FFFFFF&animation=fadeIn" width="90%"/>
 
-<b>👤 IDENTITY</b>
-
-<br><br>
-
-SHUBHAM KARDEL
-
-</td>
-
-<td align="center">
-
-<b>🎯 ROLE</b>
-
-<br><br>
-
-AI / ML ENGINEER
-
-</td>
-
-<td align="center">
-
-<b>🐍 PRIMARY</b>
-
-<br><br>
-
-PYTHON
-
-</td>
-
-<td align="center">
-
-<b>🟢 STATUS</b>
-
-<br><br>
-
-SYSTEM ONLINE
-
-</td>
-</tr>
-
-<tr>
-
-<td align="center">
-
-<b>🧠 CORE</b>
-
-<br><br>
-
-AI • ML • DL
-
-</td>
-
-<td align="center">
-
-<b>👁️ VISION</b>
-
-<br><br>
-
-COMPUTER VISION
-
-</td>
-
-<td align="center">
-
-<b>✨ GENAI</b>
-
-<br><br>
-
-LLMs • RAG • AGENTS
-
-</td>
-
-<td align="center">
-
-<b>🛡️ MISSION</b>
-
-<br><br>
-
-AEGISAI
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=1800&pause=400&color=00FF9C&center=true&vCenter=true&width=900&lines=%5BOK%5D+AI+CORE+INITIALIZED;%5BOK%5D+VISION+ENGINE+READY;%5BOK%5D+ML+PIPELINE+ACTIVE;%5BOK%5D+GENAI+MODULE+LOADED;%5BOK%5D+PROJECT+SYSTEMS+ONLINE;%5BOK%5D+MISSION+CONTROL+ACTIVE" />
-
-</div>
-
----
-
-# 🧬 ABOUT THE ENGINEER
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=ENGINEERING+INTELLIGENCE+THROUGH+CODE;BUILDING+AI+SYSTEMS+THAT+SOLVE+REAL+PROBLEMS;FROM+IDEA+%E2%86%92+MODEL+%E2%86%92+APPLICATION+%E2%86%92+DEPLOYMENT;TURNING+COMPLEX+PROBLEMS+INTO+INTELLIGENT+SYSTEMS" />
-
-</div>
-
-I am an aspiring **Artificial Intelligence & Machine Learning Engineer** focused on building intelligent software systems and practical AI applications.
+I am **Shubham Kardel**, an aspiring **Artificial Intelligence & Machine Learning Engineer** focused on learning, building, and continuously improving my ability to engineer intelligent systems.
 
 🎓 **MCA — Artificial Intelligence & Data Science**
 
-My engineering interests span:
+My long-term goal is to become an **AI Engineer capable of taking an idea from concept to a working, reliable, and production-ready intelligent system.**
+
+I am building my foundation across:
 
 `Artificial Intelligence` • `Machine Learning` • `Deep Learning`
 
-`Computer Vision` • `Generative AI` • `Natural Language Processing`
+`Generative AI` • `Large Language Models` • `RAG`
 
-`AI Agents` • `Backend Engineering` • `MLOps` • `Software Architecture`
+`Computer Vision` • `Natural Language Processing`
 
-My goal is to develop **production-oriented AI systems** that combine intelligent models, robust software engineering, real-time processing, and scalable architecture.
+`AI Agents` • `Backend Engineering` • `MLOps`
 
----
-
-# 🛡️ FLAGSHIP SYSTEM // AEGISAI
+`Cloud Deployment` • `System Design` • `Production AI`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0B3B60,100:00F7FF&height=140&section=header&text=AEGISAI&fontSize=58&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=950&lines=INTELLIGENT+RADAR+SURVEILLANCE+SYSTEM;AI+TARGET+TRACKING+ACTIVE;THREAT+ANALYSIS+ACTIVE;COMPUTER+VISION+ACTIVE;SENSOR+FUSION+ACTIVE;REAL-TIME+HUD+ACTIVE;AEGISAI+v2.0+ONLINE" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/VERSION-v2.0-00F7FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-00FF9C?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/ENGINE-PYTHON%20%2B%20PYGAME-00F7FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/AI-COMPUTER%20VISION-00F7FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=950&lines=I+AM+NOT+DONE+YET.;I+AM+LEARNING.;I+AM+BUILDING.;I+AM+EXPERIMENTING.;I+AM+IMPROVING.;I+AM+BECOMING+AN+AI+ENGINEER." />
 
 </div>
 
-<br>
-
-> **AegisAI** is an AI-powered radar surveillance and threat analysis platform designed to simulate an intelligent real-time surveillance environment.
-
-The system combines radar visualization, AI tracking, computer vision, sensor fusion, target prediction, threat analysis, missile guidance concepts, event logging, and a real-time HUD interface.
-
 ---
 
-## ⚡ AEGISAI SYSTEM CAPABILITIES
+# 🌌 MY AI ENGINEERING VISION
 
 <div align="center">
 
-<table width="100%" cellspacing="0" cellpadding="22">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=23&duration=2400&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=UNDERSTAND+INTELLIGENCE;ENGINEER+INTELLIGENT+SYSTEMS;CONNECT+AI+WITH+REAL+WORLD+PROBLEMS;BUILD+RELIABLE+AI+APPLICATIONS;MOVE+FROM+EXPERIMENTS+TO+PRODUCTION" />
 
-<tr>
+<br><br>
 
-<td align="center">
-
-📡
-
-### RADAR ENGINE
-
-Real-Time Scanning
-
-Dynamic Sweep
-
-Target Visualization
-
-Radar Detection
-
-</td>
-
-<td align="center">
-
-🎯
-
-### AI TRACKING
-
-Multi-Object Tracking
-
-Stable Track IDs
-
-Target Management
-
-Track Confidence
-
-</td>
-
-<td align="center">
-
-👁️
-
-### COMPUTER VISION
-
-Visual Detection
-
-Object Recognition
-
-YOLO Integration
-
-Vision Fusion
-
-</td>
-
-</tr>
+<table width="92%" cellspacing="0" cellpadding="22">
 
 <tr>
 
@@ -244,99 +97,29 @@ Vision Fusion
 
 🧠
 
-### THREAT ANALYSIS
+### UNDERSTAND
 
-Target Classification
-
-Threat Assessment
-
-Priority Analysis
-
-Intelligence Layer
+Learn the fundamentals of AI, mathematics, algorithms, and data.
 
 </td>
 
 <td align="center">
 
-🔗
+⚙️
 
-### SENSOR FUSION
+### ENGINEER
 
-Multi-Source Data
-
-Unified Intelligence
-
-Radar + Vision
-
-System Coordination
+Transform models and ideas into useful software systems.
 
 </td>
-
-<td align="center">
-
-📈
-
-### PREDICTION
-
-Movement Analysis
-
-Track Prediction
-
-Trajectory Estimation
-
-Future Expansion
-
-</td>
-
-</tr>
-
-<tr>
 
 <td align="center">
 
 🚀
 
-### GUIDANCE SYSTEM
+### DEPLOY
 
-Target Lock
-
-Missile Guidance
-
-Trajectory Logic
-
-Impact Simulation
-
-</td>
-
-<td align="center">
-
-🖥️
-
-### COMMAND HUD
-
-FPS Monitor
-
-Status Display
-
-Angle Tracking
-
-Real-Time Events
-
-</td>
-
-<td align="center">
-
-📋
-
-### EVENT SYSTEM
-
-Track Events
-
-Threat Events
-
-System Logs
-
-Mission History
+Build reliable AI applications that can work beyond the notebook.
 
 </td>
 
@@ -344,234 +127,73 @@ Mission History
 
 </table>
 
-</div>
-
----
-
-## ⚡ AEGISAI INTELLIGENCE PIPELINE
-
-```mermaid
-flowchart LR
-
-    A[📡 RADAR INPUT] --> B[🎯 TARGET DETECTION]
-
-    C[👁️ VISION INPUT] --> B
-
-    B --> D[🧠 AI TRACKING]
-
-    D --> E[🔗 SENSOR FUSION]
-
-    E --> F[⚠️ THREAT ANALYSIS]
-
-    F --> G[📈 TARGET PREDICTION]
-
-    G --> H[🚀 GUIDANCE & RESPONSE]
-
-    H --> I[🖥️ HUD VISUALIZATION]
-
-    I --> J[📋 EVENT LOGGING]
-
-    J --> K[🚨 REAL-TIME SURVEILLANCE]
-```
-
----
-
-## 📊 AEGISAI DEVELOPMENT STATUS
-
-<div align="center">
-
-<table width="95%" cellspacing="0" cellpadding="16">
-
-<tr>
-<th>MODULE</th>
-<th>STATUS</th>
-<th>PROGRESS</th>
-</tr>
-
-<tr>
-<td>📡 Radar Engine</td>
-<td>🟢 ONLINE</td>
-<td>████████████████████ 100%</td>
-</tr>
-
-<tr>
-<td>🎯 Stable Track IDs</td>
-<td>🟢 ONLINE</td>
-<td>████████████████████ 100%</td>
-</tr>
-
-<tr>
-<td>🎯 Multi-Object Tracking</td>
-<td>🟢 ONLINE</td>
-<td>████████████████████ 100%</td>
-</tr>
-
-<tr>
-<td>⚠️ Threat Detection</td>
-<td>🟢 ONLINE</td>
-<td>████████████████████ 100%</td>
-</tr>
-
-<tr>
-<td>👁️ Computer Vision</td>
-<td>🟢 ONLINE</td>
-<td>████████████████████ 100%</td>
-</tr>
-
-<tr>
-<td>🖥️ HUD Interface</td>
-<td>🟢 ONLINE</td>
-<td>████████████████████ 100%</td>
-</tr>
-
-<tr>
-<td>📋 Event Logging</td>
-<td>🟢 ONLINE</td>
-<td>████████████████████ 100%</td>
-</tr>
-
-<tr>
-<td>🚀 Missile Guidance</td>
-<td>🟡 DEVELOPING</td>
-<td>██████████████░░░░░░ 70%</td>
-</tr>
-
-<tr>
-<td>⚠️ Track Confidence Decay</td>
-<td>🟡 DEVELOPING</td>
-<td>██████████░░░░░░░░░░ 50%</td>
-</tr>
-
-<tr>
-<td>📈 Track Prediction</td>
-<td>🟡 DEVELOPING</td>
-<td>████████░░░░░░░░░░░░ 40%</td>
-</tr>
-
-<tr>
-<td>✨ Radar Trail History</td>
-<td>🟡 DEVELOPING</td>
-<td>███████░░░░░░░░░░░░░ 35%</td>
-</tr>
-
-<tr>
-<td>🔄 Advanced Radar Effects</td>
-<td>🟡 DEVELOPING</td>
-<td>██████░░░░░░░░░░░░░░ 30%</td>
-</tr>
-
-</table>
-
-</div>
-
 <br>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2300&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=NEXT+TARGET%3A+AEGISAI+v2.1;LONG+TERM+MISSION%3A+AEGISAI+v3.0;SYSTEM+EVOLUTION+IN+PROGRESS...;INTELLIGENCE+LAYER+EXPANDING..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2000&pause=600&color=00FF9C&center=true&vCenter=true&width=900&lines=THE+GOAL+IS+NOT+JUST+TO+TRAIN+MODELS;THE+GOAL+IS+TO+ENGINEER+INTELLIGENT+SYSTEMS" />
 
 </div>
 
 ---
 
-# 📄 AI PRODUCT // RESUME ANALYZER AI
+# 🧬 AI ENGINEERING CORE
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0B3B60,100:00F7FF&height=130&section=header&text=RESUME%20ANALYZER%20AI&fontSize=44&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<table width="100%" cellspacing="0" cellpadding="25">
 
-<br>
+<tr>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=600&color=00F7FF&center=true&vCenter=true&width=950&lines=AI-POWERED+ATS+SCREENING;INTELLIGENT+SKILL+EXTRACTION;RESUME+%E2%86%94+JOB+MATCHING;AI+CAREER+COACH;ACTIONABLE+RESUME+INTELLIGENCE;CAREER+DECISION+SUPPORT+SYSTEM" />
+<td align="center">
+
+<img src="https://img.shields.io/badge/01-MACHINE%20LEARNING-00F7FF?style=for-the-badge&labelColor=020617"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ENGINE-NLP%20%2B%20AI-00F7FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/UI-GRADIO-00F7FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/ANALYTICS-ATS%20SCORING-00FF9C?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-00FF9C?style=for-the-badge&labelColor=020617"/>
-
-</div>
-
-<br>
-
-Resume Analyzer AI is an intelligent application designed to analyze resumes against job descriptions and provide actionable career insights.
-
----
-
-## 🔄 AI ANALYSIS PIPELINE
-
-```mermaid
-flowchart LR
-
-    A[📄 PDF RESUME] --> B[📑 TEXT EXTRACTION]
-
-    B --> C[🧠 SKILL EXTRACTION]
-
-    C --> D[📊 ATS SCORING]
-
-    C --> E[🎯 JOB MATCHING]
-
-    D --> F[📈 VISUAL ANALYTICS]
-
-    E --> F
-
-    F --> G[🤖 AI CAREER COACH]
-
-    G --> H[💡 ACTIONABLE FEEDBACK]
-
-    H --> I[🚀 CAREER IMPROVEMENT]
-```
-
----
-
-## 🧩 RESUME ANALYZER CAPABILITIES
-
-<div align="center">
-
-<table width="100%" cellspacing="0" cellpadding="20">
-
-<tr>
-
-<td align="center">
-
-📄
-
-### PDF ENGINE
-
-Resume Processing
-
-Text Extraction
-
-Document Parsing
-
-</td>
-
-<td align="center">
-
-🧠
-
-### NLP ENGINE
-
-Skill Detection
-
-Keyword Analysis
-
-Entity Extraction
-
-</td>
-
-<td align="center">
-
 📊
 
-### ATS ENGINE
+### MACHINE LEARNING
 
-Resume Scoring
+Predictive Modeling
+Feature Engineering
+Model Evaluation
+Data Processing
+Scikit-Learn
 
-Structure Analysis
+</td>
 
-ATS Optimization
+<td align="center">
+
+<img src="https://img.shields.io/badge/02-DEEP%20LEARNING-00F7FF?style=for-the-badge&labelColor=020617"/>
+
+<br><br>
+
+🔥
+
+### DEEP LEARNING
+
+Neural Networks
+Representation Learning
+Model Training
+PyTorch
+Deep Learning Systems
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/03-GENERATIVE%20AI-00F7FF?style=for-the-badge&labelColor=020617"/>
+
+<br><br>
+
+✨
+
+### GENERATIVE AI
+
+LLMs
+Prompt Engineering
+RAG
+Embeddings
+AI Applications
 
 </td>
 
@@ -581,43 +203,119 @@ ATS Optimization
 
 <td align="center">
 
-🎯
+<img src="https://img.shields.io/badge/04-COMPUTER%20VISION-00F7FF?style=for-the-badge&labelColor=020617"/>
 
-### MATCH ENGINE
+<br><br>
 
-Resume vs JD
+👁️
 
-Skill Comparison
+### COMPUTER VISION
 
-Match Percentage
+Image Processing
+Object Detection
+Object Tracking
+OpenCV
+Visual Intelligence
 
 </td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/05-NLP-00F7FF?style=for-the-badge&labelColor=020617"/>
+
+<br><br>
+
+🗣️
+
+### NATURAL LANGUAGE
+
+Text Processing
+Information Extraction
+Embeddings
+Semantic Search
+Language Intelligence
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/06-AI%20ENGINEERING-00F7FF?style=for-the-badge&labelColor=020617"/>
+
+<br><br>
+
+⚙️
+
+### AI ENGINEERING
+
+APIs
+Backend Systems
+Model Integration
+Docker
+Production AI
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🧠 INTELLIGENCE LAYER
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=BUILDING+THE+INTELLIGENCE+LAYER;LEARNING+HOW+AI+SYSTEMS+THINK;CONNECTING+MODELS+WITH+APPLICATIONS;EXPLORING+THE+NEXT+GENERATION+OF+AI" />
+
+<br><br>
+
+<table width="95%" cellspacing="0" cellpadding="20">
+
+<tr>
+
+<td align="center">
+
+✨
+
+### LARGE LANGUAGE MODELS
+
+Learning how modern language models work and how to build useful applications around them.
+
+</td>
+
+<td align="center">
+
+🔎
+
+### RETRIEVAL AUGMENTED GENERATION
+
+Exploring embeddings, vector search, retrieval pipelines, and grounded AI responses.
+
+</td>
+
+</tr>
+
+<tr>
 
 <td align="center">
 
 🤖
 
-### AI COACH
+### AI AGENTS
 
-Intelligent Feedback
-
-Career Guidance
-
-Improvement Suggestions
+Learning to build systems capable of reasoning through tasks, using tools, and executing workflows.
 
 </td>
 
 <td align="center">
 
-📈
+🧩
 
-### ANALYTICS
+### AI APPLICATIONS
 
-Visual Reports
-
-Score Breakdown
-
-Performance Insights
+Connecting models, APIs, databases, interfaces, and backend systems into complete applications.
 
 </td>
 
@@ -629,7 +327,7 @@ Performance Insights
 
 ---
 
-# 🧰 TECHNOLOGY ARSENAL
+# 🛠️ ENGINEERING ARSENAL
 
 <div align="center">
 
@@ -637,17 +335,17 @@ Performance Insights
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=PYTHON+%7C+AI+%7C+MACHINE+LEARNING;PYTORCH+%7C+OPENCV+%7C+SCIKIT-LEARN;FASTAPI+%7C+REST+APIs+%7C+DOCKER;NUMPY+%7C+PANDAS+%7C+DATA+PROCESSING;GIT+%7C+GITHUB+%7C+SOFTWARE+ENGINEERING" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=950&lines=PYTHON+%7C+PRIMARY+AI+ENGINEERING+LANGUAGE;PYTORCH+%7C+DEEP+LEARNING;SCIKIT-LEARN+%7C+MACHINE+LEARNING;OPENCV+%7C+COMPUTER+VISION;FASTAPI+%7C+AI+BACKEND+SYSTEMS;NUMPY+%7C+PANDAS+%7C+DATA+PROCESSING;GIT+%7C+GITHUB+%7C+VERSION+CONTROL;DOCKER+%7C+CONTAINERIZATION" />
 
 </div>
 
 ---
 
-## 💻 ENGINEERING STACK
+# ⚡ ENGINEERING STACK
 
 <div align="center">
 
-<table width="100%" cellspacing="0" cellpadding="20">
+<table width="100%" cellspacing="0" cellpadding="22">
 
 <tr>
 
@@ -665,45 +363,43 @@ Performance Insights
 
 <td align="center">
 
-### 🤖 AI / ML
+### 🧠 AI / ML
 
 Machine Learning
 
 Deep Learning
 
-Computer Vision
-
 Generative AI
+
+NLP
 
 </td>
 
 <td align="center">
 
-### 📚 FRAMEWORKS
+### 👁️ INTELLIGENCE
 
-PyTorch
+Computer Vision
 
-Scikit-Learn
+LLMs
 
-OpenCV
+RAG
+
+AI Agents
+
+</td>
+
+<td align="center">
+
+### ⚙️ ENGINEERING
 
 FastAPI
 
-</td>
-
-<td align="center">
-
-### 🛠️ TOOLS
-
-Git
-
-GitHub
+REST APIs
 
 Docker
 
-Jupyter
-
-PyCharm
+Git
 
 </td>
 
@@ -715,359 +411,195 @@ PyCharm
 
 ---
 
-# 🧠 AI CAPABILITY MATRIX
+# 📡 AI ENGINEERING DEVELOPMENT STATUS
 
 <div align="center">
 
-<table width="95%" cellspacing="0" cellpadding="15">
-
-<tr>
-<th>DOMAIN</th>
-<th>CAPABILITY</th>
-<th>STATUS</th>
-</tr>
-
-<tr>
-<td>🐍 Python</td>
-<td>AI Application Development</td>
-<td>🟢 Advanced Focus</td>
-</tr>
-
-<tr>
-<td>🤖 Machine Learning</td>
-<td>Model Development & Evaluation</td>
-<td>🟢 Active</td>
-</tr>
-
-<tr>
-<td>🔥 Deep Learning</td>
-<td>Neural Networks & PyTorch</td>
-<td>🟡 Advancing</td>
-</tr>
-
-<tr>
-<td>👁️ Computer Vision</td>
-<td>Detection & Tracking</td>
-<td>🟢 Active</td>
-</tr>
-
-<tr>
-<td>✨ Generative AI</td>
-<td>LLMs & AI Applications</td>
-<td>🟡 Advancing</td>
-</tr>
-
-<tr>
-<td>🔎 NLP</td>
-<td>Text & Skill Extraction</td>
-<td>🟢 Active</td>
-</tr>
-
-<tr>
-<td>🌐 FastAPI</td>
-<td>AI Backend APIs</td>
-<td>🟡 Advancing</td>
-</tr>
-
-<tr>
-<td>🐳 Docker</td>
-<td>Containerization</td>
-<td>🟡 Learning</td>
-</tr>
-
-<tr>
-<td>☁️ MLOps</td>
-<td>Production AI Systems</td>
-<td>🟡 Learning</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 📡 LIVE DEVELOPMENT MONITOR
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=LIVE+DEVELOPMENT+MONITOR;REAL-TIME+ENGINEERING+PIPELINE;PROJECT+SYSTEMS+ONLINE;MISSION+CONTROL+ACTIVE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=SCANNING+CURRENT+CAPABILITIES...;ANALYZING+SKILL+MATRIX...;UPGRADING+ENGINEERING+CORE...;KNOWLEDGE+BASE+EXPANDING...;SYSTEM+EVOLUTION+IN+PROGRESS..." />
 
 <br><br>
 
 <table width="95%" cellspacing="0" cellpadding="16">
 
 <tr>
-<th>SYSTEM</th>
+<th>DOMAIN</th>
+<th>FOCUS</th>
 <th>STATE</th>
-<th>CURRENT OPERATION</th>
 </tr>
 
 <tr>
-<td>🛡️ AegisAI</td>
+<td>🐍 Python</td>
+<td>AI Application Development</td>
 <td>🟢 ACTIVE</td>
-<td>Radar & AI Surveillance Development</td>
 </tr>
 
 <tr>
-<td>📄 Resume Analyzer AI</td>
+<td>📊 Machine Learning</td>
+<td>Model Development & Evaluation</td>
 <td>🟢 ACTIVE</td>
-<td>ATS & Career Intelligence</td>
+</tr>
+
+<tr>
+<td>🔥 Deep Learning</td>
+<td>Neural Networks & PyTorch</td>
+<td>🟡 ADVANCING</td>
 </tr>
 
 <tr>
 <td>👁️ Computer Vision</td>
+<td>Detection & Tracking</td>
 <td>🟢 ACTIVE</td>
-<td>Detection & Tracking Research</td>
 </tr>
 
 <tr>
-<td>🧠 Generative AI</td>
+<td>🗣️ NLP</td>
+<td>Text & Language Intelligence</td>
+<td>🟢 ACTIVE</td>
+</tr>
+
+<tr>
+<td>✨ Generative AI</td>
+<td>LLMs & AI Applications</td>
+<td>🟡 ADVANCING</td>
+</tr>
+
+<tr>
+<td>🔎 RAG</td>
+<td>Retrieval & Knowledge Systems</td>
 <td>🟡 LEARNING</td>
-<td>LLMs, RAG & AI Agents</td>
+</tr>
+
+<tr>
+<td>🤖 AI Agents</td>
+<td>Tool-Using Intelligent Systems</td>
+<td>🟡 LEARNING</td>
+</tr>
+
+<tr>
+<td>🌐 FastAPI</td>
+<td>AI Backend Engineering</td>
+<td>🟡 ADVANCING</td>
+</tr>
+
+<tr>
+<td>🐳 Docker</td>
+<td>Containerized AI Deployment</td>
+<td>🟡 LEARNING</td>
 </tr>
 
 <tr>
 <td>☁️ MLOps</td>
+<td>Production AI Lifecycle</td>
 <td>🟡 LEARNING</td>
-<td>Deployment & Production Systems</td>
 </tr>
 
 <tr>
 <td>🏗️ System Design</td>
-<td>🟡 LEARNING</td>
 <td>Scalable AI Architecture</td>
+<td>🟡 EXPLORING</td>
 </tr>
 
 </table>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1600&pause=400&color=00FF9C&center=true&vCenter=true&width=900&lines=%3E+SCANNING+PROJECT+PIPELINE...;%3E+ANALYZING+AI+SYSTEMS...;%3E+OPTIMIZING+MODELS...;%3E+BUILDING+NEW+FEATURES...;%3E+DEPLOYMENT+PIPELINE+STANDBY...;%3E+MISSION+CONTINUES..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1700&pause=400&color=00FF9C&center=true&vCenter=true&width=900&lines=%3E+STATUS%3A+CONTINUOUS+LEARNING;%3E+STATUS%3A+CONTINUOUS+BUILDING;%3E+STATUS%3A+CONTINUOUS+IMPROVEMENT;%3E+NEXT+UPGRADE%3A+PRODUCTION-READY+AI+SYSTEMS" />
 
 </div>
 
 ---
 
-# 📚 LEARNING MATRIX
+# 📚 CURRENT LEARNING FRONTIER
 
 <div align="center">
 
-<table width="95%" cellspacing="0" cellpadding="14">
-
-<tr>
-<th>AREA</th>
-<th>MISSION</th>
-<th>STATUS</th>
-</tr>
-
-<tr>
-<td>🧠 Large Language Models</td>
-<td>LLM Application Engineering</td>
-<td>🟢 Active</td>
-</tr>
-
-<tr>
-<td>🔎 RAG Systems</td>
-<td>Knowledge Retrieval Pipelines</td>
-<td>🟢 Active</td>
-</tr>
-
-<tr>
-<td>🤖 AI Agents</td>
-<td>Autonomous AI Workflows</td>
-<td>🟢 Active</td>
-</tr>
-
-<tr>
-<td>🔥 Deep Learning</td>
-<td>Advanced Neural Networks</td>
-<td>🟢 Active</td>
-</tr>
-
-<tr>
-<td>👁️ Computer Vision</td>
-<td>Advanced Detection & Tracking</td>
-<td>🟢 Active</td>
-</tr>
-
-<tr>
-<td>🎮 Reinforcement Learning</td>
-<td>Intelligent Decision Systems</td>
-<td>🟡 Learning</td>
-</tr>
-
-<tr>
-<td>🌐 FastAPI</td>
-<td>Production AI APIs</td>
-<td>🟢 Active</td>
-</tr>
-
-<tr>
-<td>🐳 Docker</td>
-<td>Containerized Deployment</td>
-<td>🟡 Learning</td>
-</tr>
-
-<tr>
-<td>⚙️ MLOps</td>
-<td>AI Production Lifecycle</td>
-<td>🟡 Learning</td>
-</tr>
-
-<tr>
-<td>🏗️ System Design</td>
-<td>Scalable Software Architecture</td>
-<td>🟡 Learning</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 🎯 2026 MISSION CONTROL
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=23&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=MISSION+CONTROL;2026+ENGINEERING+OBJECTIVES;TARGETS+LOADED;EXECUTION+IN+PROGRESS;FUTURE+SYSTEMS+UNDER+CONSTRUCTION" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=23&duration=2300&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=THE+LEARNING+NEVER+STOPS;EVERY+CONCEPT+BECOMES+A+NEW+CAPABILITY;EVERY+EXPERIMENT+BUILDS+EXPERIENCE;EVERY+PROJECT+MOVES+THE+MISSION+FORWARD" />
 
 <br><br>
 
-<table width="95%" cellspacing="0" cellpadding="15">
-
-<tr>
-<th>MISSION OBJECTIVE</th>
-<th>PRIORITY</th>
-<th>STATUS</th>
-</tr>
-
-<tr>
-<td>🚀 Build Production-Level AI Applications</td>
-<td>🔴 HIGH</td>
-<td>🟢 ACTIVE</td>
-</tr>
-
-<tr>
-<td>🛡️ Complete AegisAI v2.1</td>
-<td>🔴 HIGH</td>
-<td>🟢 ACTIVE</td>
-</tr>
-
-<tr>
-<td>👁️ Master Advanced Computer Vision</td>
-<td>🔴 HIGH</td>
-<td>🟢 ACTIVE</td>
-</tr>
-
-<tr>
-<td>✨ Build Generative AI Applications</td>
-<td>🟠 HIGH</td>
-<td>🟢 ACTIVE</td>
-</tr>
-
-<tr>
-<td>☁️ Learn MLOps & Cloud Deployment</td>
-<td>🟠 MEDIUM</td>
-<td>🟡 LEARNING</td>
-</tr>
-
-<tr>
-<td>🧩 Strengthen DSA & Problem Solving</td>
-<td>🟠 MEDIUM</td>
-<td>🟡 IMPROVING</td>
-</tr>
-
-<tr>
-<td>🌍 Contribute to Open Source</td>
-<td>🟡 MEDIUM</td>
-<td>🔵 PLANNED</td>
-</tr>
-
-<tr>
-<td>📝 Publish Technical Articles</td>
-<td>🟡 MEDIUM</td>
-<td>🔵 PLANNED</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 🧩 AI PROJECT ECOSYSTEM
-
-<div align="center">
-
-<table width="100%" cellspacing="0" cellpadding="22">
+<table width="95%" cellspacing="0" cellpadding="18">
 
 <tr>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/01-AEGISAI-00F7FF?style=for-the-badge&labelColor=020617"/>
+🧠
 
-<br><br>
+### AI FUNDAMENTALS
 
-🛡️
-
-### INTELLIGENT SURVEILLANCE
-
-AI + Computer Vision
-
-Radar Systems
-
-Target Tracking
-
-Threat Analysis
-
-Sensor Fusion
+Mathematics for AI
+Algorithms
+Data Structures
+Model Evaluation
 
 </td>
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/02-RESUME%20ANALYZER-00F7FF?style=for-the-badge&labelColor=020617"/>
+🔥
 
-<br><br>
+### ADVANCED AI
 
-📄
-
-### CAREER INTELLIGENCE
-
-NLP
-
-ATS Analysis
-
-Skill Extraction
-
-Job Matching
-
-AI Feedback
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/03-FUTURE%20SYSTEMS-00F7FF?style=for-the-badge&labelColor=020617"/>
-
-<br><br>
-
-🚀
-
-### NEXT GENERATION AI
-
-AI Agents
-
-RAG
-
+Deep Learning
+Transformers
 LLMs
+Generative AI
 
-Automation
+</td>
 
+<td align="center">
+
+⚙️
+
+### AI ENGINEERING
+
+APIs
+Backend Systems
+System Design
+Software Architecture
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+👁️
+
+### PERCEPTION
+
+Computer Vision
+Object Detection
+Tracking
+Visual Intelligence
+
+</td>
+
+<td align="center">
+
+🔎
+
+### KNOWLEDGE
+
+Embeddings
+Vector Databases
+RAG
+Semantic Search
+
+</td>
+
+<td align="center">
+
+☁️
+
+### PRODUCTION
+
+Docker
+Cloud
 MLOps
+Deployment
 
 </td>
 
@@ -1079,7 +611,188 @@ MLOps
 
 ---
 
-# 📈 GITHUB INTELLIGENCE CENTER
+# 🚀 THE ROAD TO AI ENGINEERING
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:061A3A,50:0B3B60,75:007C91,100:00F7FF&height=110&section=header&text=THE%20JOURNEY%20AHEAD&fontSize=36&fontColor=FFFFFF&animation=fadeIn" width="90%"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2100&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=MASTER+THE+FUNDAMENTALS;%E2%86%92+BUILD+STRONG+AI+FOUNDATIONS;%E2%86%92+ENGINEER+INTELLIGENT+APPLICATIONS;%E2%86%92+LEARN+PRODUCTION+SYSTEMS;%E2%86%92+DEPLOY+REAL+AI+SOLUTIONS;%E2%86%92+BECOME+AN+AI+ENGINEER" />
+
+<br><br>
+
+<table width="92%" cellspacing="0" cellpadding="22">
+
+<tr>
+
+<td align="center">
+
+01
+
+<br>
+
+### FOUNDATION
+
+Strengthen Python, mathematics, DSA, SQL, and core computer science.
+
+</td>
+
+<td align="center">
+
+02
+
+<br>
+
+### INTELLIGENCE
+
+Master Machine Learning, Deep Learning, NLP, and Computer Vision.
+
+</td>
+
+<td align="center">
+
+03
+
+<br>
+
+### GENERATIVE AI
+
+Build expertise in LLMs, RAG, embeddings, and AI agents.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+04
+
+<br>
+
+### ENGINEERING
+
+Learn APIs, backend systems, system design, testing, and architecture.
+
+</td>
+
+<td align="center">
+
+05
+
+<br>
+
+### PRODUCTION
+
+Learn Docker, cloud deployment, MLOps, monitoring, and scalability.
+
+</td>
+
+<td align="center">
+
+06
+
+<br>
+
+### AI ENGINEER
+
+Bring everything together to build reliable intelligent systems.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🎯 MY FUTURE MISSION
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=MISSION%3A+BECOME+A+STRONG+AI+ENGINEER;OBJECTIVE%3A+BUILD+INTELLIGENT+SYSTEMS;OBJECTIVE%3A+SOLVE+REAL-WORLD+PROBLEMS;OBJECTIVE%3A+ENGINEER+AI+FOR+PRODUCTION;OBJECTIVE%3A+NEVER+STOP+LEARNING" />
+
+<br><br>
+
+<table width="90%" cellspacing="0" cellpadding="25">
+
+<tr>
+
+<td align="center">
+
+### 🧠 LEARN
+
+Build a deep understanding of AI, ML, mathematics, and computer science.
+
+</td>
+
+<td align="center">
+
+### 🛠️ BUILD
+
+Turn knowledge into real applications and intelligent systems.
+
+</td>
+
+<td align="center">
+
+### 🚀 GROW
+
+Continuously improve engineering, problem-solving, and system design skills.
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/MISSION-BECOME%20AN%20AI%20ENGINEER-00F7FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-00FF9C?style=for-the-badge&labelColor=020617"/>
+
+</div>
+
+---
+
+# 🌱 ENGINEERING PHILOSOPHY
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+IMPROVE;KNOWLEDGE+WITHOUT+PRACTICE+IS+INCOMPLETE;EVERY+ERROR+IS+FEEDBACK;EVERY+PROJECT+IS+A+LESSON;EVERY+VERSION+SHOULD+BE+BETTER+THAN+THE+LAST" />
+
+<br><br>
+
+<table width="90%" cellspacing="0" cellpadding="25">
+
+<tr>
+
+<td align="center">
+
+> **"I don't want to just use AI.**
+>
+> **I want to understand it, engineer it, and build intelligent systems that solve meaningful problems."**
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=850&lines=CURIOUS+TODAY.;BETTER+TOMORROW.;AI+ENGINEER+IN+THE+MAKING." />
+
+</div>
+
+---
+
+# 📊 GITHUB ACTIVITY
 
 <div align="center">
 
@@ -1093,65 +806,31 @@ MLOps
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkardel-ai&theme=tokyo-night&hide_border=true&area=true&custom_title=AI%20ENGINEERING%20CONTRIBUTION%20MATRIX" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkardel-ai&theme=tokyo-night&hide_border=true&area=true&custom_title=AI%20ENGINEERING%20LEARNING%20ACTIVITY" width="100%"/>
 
 </div>
 
 ---
 
-# 🧠 ENGINEERING PHILOSOPHY
+# 🌐 LET'S CONNECT
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=950&lines=BUILD+INTELLIGENT+SYSTEMS;SOLVE+REAL+PROBLEMS;ENGINEER+WITH+PURPOSE;LEARN+EVERY+DAY;IMPROVE+EVERY+VERSION;NEVER+STOP+BUILDING" />
-
-<br><br>
-
-<table width="90%" cellspacing="0" cellpadding="22">
-
-<tr>
-
-<td align="center">
-
-> **"Great software isn't built in a day.**
->
-> **It's engineered through continuous learning, disciplined practice, and relentless improvement."**
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2400&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=ESTABLISHING+SECURE+CONNECTION...;NETWORK+LINK+READY;CONNECT+WITH+THE+ENGINEER;LET'S+BUILD+THE+FUTURE+OF+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2400&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=OPENING+COMMUNICATION+CHANNEL...;NETWORK+LINK+ESTABLISHED;LET'S+LEARN+TOGETHER;LET'S+BUILD+THE+FUTURE+OF+AI" />
 
 <br><br>
 
 <a href="https://github.com/shubhamkardel-ai">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shubham-kardel-303356312/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+DEEP+LEARNING;COMPUTER+VISION+%7C+GENERATIVE+AI;PYTHON+%7C+PYTORCH+%7C+FASTAPI;BUILDING+THE+FUTURE+WITH+AI;THE+MISSION+CONTINUES..." />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/BUILD-INTELLIGENT%20SYSTEMS-00F7FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/LEARN-NEW%20TECHNOLOGIES-00F7FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/IMPROVE-EVERY%20DAY-00F7FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%7C+MACHINE+LEARNING+%7C+DEEP+LEARNING;GENERATIVE+AI+%7C+COMPUTER+VISION+%7C+NLP;PYTHON+%7C+PYTORCH+%7C+FASTAPI;LEARNING+TODAY+%7C+BUILDING+TOMORROW;THE+JOURNEY+CONTINUES..." />
 
 </div>
 
@@ -1159,52 +838,22 @@ MLOps
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=THANK+YOU+FOR+VISITING+MY+PROFILE;PROFILE+SYSTEMS+HAVE+BEEN+SCANNED;MISSION+CONTROL+REMAINS+ONLINE;THE+JOURNEY+IS+JUST+BEGINNING" />
-
-<br><br>
-
-<table width="90%" cellspacing="0" cellpadding="25">
-
-<tr>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/STATUS-THANKS%20FOR%20VISITING-00F7FF?style=for-the-badge&labelColor=020617"/>
-
-<br><br>
-
-### ⭐ THANK YOU FOR VISITING MY GITHUB PROFILE!
-
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2300&pause=700&color=00FF9C&center=true&vCenter=true&width=850&lines=YOUR+VISIT+IS+APPRECIATED;KEEP+EXPLORING;KEEP+LEARNING;KEEP+BUILDING;KEEP+INNOVATING;SEE+YOU+IN+THE+NEXT+MISSION" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:061A3A,50:0B3B60,75:007C91,100:00F7FF&height=120&section=header&text=THE%20NEURAL%20FRONTIER&fontSize=38&fontColor=FFFFFF&animation=fadeIn" width="90%"/>
 
 <br><br>
 
-**If you find my projects interesting, feel free to explore my repositories, connect with me, and follow the journey.**
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=LEARNING+NEVER+STOPS;BUILDING+NEVER+STOPS;THE+FUTURE+IS+STILL+BEING+ENGINEERED;ONE+CONCEPT+AT+A+TIME;ONE+SYSTEM+AT+A+TIME;ONE+DAY+I+WILL+BECOME+AN+AI+ENGINEER" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI-EXPLORE-00F7FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/LEARN-GROW-00F7FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/BUILD-INNOVATE-00F7FF?style=for-the-badge&labelColor=020617"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2400&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=FINAL+SYSTEM+MESSAGE;MISSION+CONTROL+DISCONNECTING...;ALL+SYSTEMS+REMAIN+OPERATIONAL;UNTIL+THE+NEXT+BUILD...;UNTIL+THE+NEXT+IDEA...;UNTIL+THE+NEXT+INNOVATION..." />
+<img src="https://img.shields.io/badge/LEARN-∞-00F7FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/BUILD-∞-00F7FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/IMPROVE-∞-00F7FF?style=for-the-badge&labelColor=020617"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUILDING%20AI%20SYSTEMS-ONE%20PROJECT%20AT%20A%20TIME-00F7FF?style=for-the-badge&labelColor=020617"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,20:00B8D4,40:007C91,60:0B3B60,80:061A3A,100:020617&height=220&section=footer&text=THE%20MISSION%20CONTINUES&fontSize=34&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,20:00B8D4,40:007C91,60:0B3B60,80:061A3A,100:020617&height=220&section=footer&text=THE%20JOURNEY%20CONTINUES&fontSize=34&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 </div>
